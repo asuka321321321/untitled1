@@ -3,11 +3,12 @@ public class Review4 {
         int number = 5;
         String str = "88" + "88";
         final double PI = 3.141592;
-        float cric = 3.14;
-        long a = 100000000000;
-        boolean flg = "true";
+        double cric = 3.14;
+        long a = 1000000;
+        boolean flg = true;
         byte b = 35;
-        int num = 0735;
+        int num = 0x735;
         char c = 'a';
     }
 }
+
