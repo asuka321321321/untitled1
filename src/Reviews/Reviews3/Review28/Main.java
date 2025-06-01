@@ -1,4 +1,4 @@
-package Review28;
+package Reviews.Reviews3.Review28;
 
 import java.io.BufferedReader;
 import java.io.IOException;
