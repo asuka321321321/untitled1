@@ -1,4 +1,4 @@
-package Reviews;
+package Reviews.Review1;
 
 import java.io.*;
 public class Review9 {
