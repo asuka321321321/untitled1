@@ -1,4 +1,4 @@
-package Reviews;
+package Reviews.Review1;
 
 public class Review8 {
     public static void main(String[] args){
