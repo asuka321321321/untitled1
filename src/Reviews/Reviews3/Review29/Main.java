@@ -1,4 +1,4 @@
-package Review29;
+package Reviews.Reviews3.Review29;
 
 public class Main {
     public static void main(String[] args){

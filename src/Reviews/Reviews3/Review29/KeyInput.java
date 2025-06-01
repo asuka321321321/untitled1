@@ -1,4 +1,4 @@
-package Review29;
+package Reviews.Reviews3.Review29;
 
 import java.io.*;
 public class KeyInput {
